@@ -32,5 +32,5 @@ Download the zip from releases and extract to the root of your switch SD card.
 # Photos:
 My imac in thermal colour mode
 ![2025112312343900-06618FAD45328E0C2BC8741B95018E59](https://github.com/user-attachments/assets/bec20280-eaea-422f-a639-1c0f6ebfeacd)
-My imac in thermal colour mode
+My imac in greyscale colour mode
 ![2025112312402500-06618FAD45328E0C2BC8741B95018E59](https://github.com/user-attachments/assets/0b3fa259-4450-4745-b0db-2aef570c3de4)
