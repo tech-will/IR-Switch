@@ -1,5 +1,5 @@
 # IR-Switch
-A homebrew app for the switch that allows you to view the Switch's IR camera on the right joy-con that is steamed to the switch's screen.
+A homebrew app for the switch that allows you to view the Nintendo Switch's IR camera on the right joy-con that is steamed to the Nintendo switch's screen.
 
 # Features:
 
@@ -24,6 +24,10 @@ A homebrew app for the switch that allows you to view the Switch's IR camera on 
 • Left/Right on D-PAD to change resolution
 
 • - to turn off IR LED
+
+Note:
+
+Higher resolution for the IR camera slows down the camera speed while lower resolution speeds up the camera speed.
 
 # Usage:
 
