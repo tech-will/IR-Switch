@@ -9,9 +9,9 @@ A homebrew app for the switch that allows you to view the Switch's IR camera on 
 
 • Switch between greyscale and thermal colour*
 
-• Turn the IR led off
+• Turn on and off the IR led off
 
-• Detach controllers to use like a mini camera
+• Detach the controllers to use like a mini camera
 
 *The thermal colour mode shows the amount of InfaRed light that is recieved by the InfraRed sensor. It is NOT a thermal camera because the sensor only detects shorter infrared wavelengths of around 850-940nm that are emitted by a TV remote for example. It cannot detect heat's wavelength.
 
