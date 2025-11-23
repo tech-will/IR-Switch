@@ -13,7 +13,7 @@ A homebrew app for the switch that allows you to view the Switch's IR camera on 
 
 • Detach controllers to use like a mini camera
 
-*The thermal colour mode shows the amount of InfaRed light that is recieved by the InfaRed sensor. It is NOT a thermal camera because the sensor only detects shorter infared wavelengths of around 850-940nm that are emmited by a TV remote for example. It cannot detect heat's wavelength.
+*The thermal colour mode shows the amount of InfaRed light that is recieved by the InfraRed sensor. It is NOT a thermal camera because the sensor only detects shorter infrared wavelengths of around 850-940nm that are emitted by a TV remote for example. It cannot detect heat's wavelength.
 
 # Controls:
 
@@ -30,7 +30,7 @@ A homebrew app for the switch that allows you to view the Switch's IR camera on 
 Download the zip from https://github.com/tech-will/IR-Switch/releases/tag/Final-Release and extract to the root of your switch SD card.
 
 # Photos:
-My imac in thermal colour mode
+My Imac in thermal colour mode.
 ![2025112312343900-06618FAD45328E0C2BC8741B95018E59](https://github.com/user-attachments/assets/bec20280-eaea-422f-a639-1c0f6ebfeacd)
-A rubics cube in greyscale colour mode
+A rubics cube in greyscale colour mode.
 ![2025112312402500-06618FAD45328E0C2BC8741B95018E59](https://github.com/user-attachments/assets/0b3fa259-4450-4745-b0db-2aef570c3de4)
