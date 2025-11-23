@@ -27,7 +27,7 @@ A homebrew app for the switch that allows you to view the Switch's IR camera on 
 
 # Usage:
 
-Download the zip from releases and extract to the root of your switch SD card.
+Download the zip from https://github.com/tech-will/IR-Switch/releases/tag/Final-Release and extract to the root of your switch SD card.
 
 # Photos:
 My imac in thermal colour mode
