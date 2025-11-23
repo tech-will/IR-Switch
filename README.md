@@ -1,5 +1,5 @@
 # IR-Switch
-A homebrew app for the switch that allows you to view the Switch's IR camera on the right joy-con that is steamed to the switch's screen.  Made on devkitpro 3.03.
+A homebrew app for the switch that allows you to view the Switch's IR camera on the right joy-con that is steamed to the switch's screen.
 
 # Features:
 
