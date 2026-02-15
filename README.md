@@ -41,3 +41,6 @@ A rubics cube in greyscale colour mode.
 ![2025112312402500-06618FAD45328E0C2BC8741B95018E59](https://github.com/user-attachments/assets/0b3fa259-4450-4745-b0db-2aef570c3de4)
 
 ps no idea when I managed to get 903 downloads on the hb app store
+
+#Future plans
+Might add UI after I finish my other homebrew app.
