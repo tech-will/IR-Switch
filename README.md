@@ -9,7 +9,7 @@ A homebrew app for the switch that allows you to view the Nintendo Switch's IR c
 
 • Switch between greyscale and thermal colour*
 
-• Turn on and off the IR led off
+• Turn on and off the IR LED.
 
 • Detach the controllers to use like a mini camera
 
