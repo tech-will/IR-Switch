@@ -32,7 +32,9 @@ Higher resolution for the IR camera slows down the camera speed while lower reso
 # Usage:
 
 Download the zip from https://github.com/tech-will/IR-Switch/releases/tag/Final-Release and extract to the root of your switch SD card. 
-You can also download it from the homebrew app store at https://hb-app.store/switch/IRSwitch
+You can also get it on the Homebrew App Store.
+
+[<img width="1080" height="300" alt="HB App Store shortcut link" src="https://github.com/user-attachments/assets/b665a650-9f9b-4db0-a980-c326a1da74b5" style="width:35%; height:auto;" />](https://hb-app.store/switch/IRSwitch)
 
 # Photos:
 My Imac in thermal colour mode.
